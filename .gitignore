@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+roundtrip-mod-settings.*
+example-mod-settings.json
